@@ -1,0 +1,8 @@
+pandas==1.5.0
+numpy==1.23.3
+torch==2.0.1
+matplotlib==3.6.0
+seaborn==0.12.1
+sklearn==1.1.2
+pickle==3.10.12
+sys==3.10.12
